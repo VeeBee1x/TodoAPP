@@ -1,8 +1,8 @@
 :root{
-    --background: #101114;
-    --primary-color: #1C1D20;
-    --secondary-color: #4A4D57;
-    --accent-color: #00FFC4;
+    --background: #111827;
+    --primary-color: #1f2937;
+    --secondary-color: #374151;
+    --accent-color: #7dd3fc;
     --text-color: #F9F9F9;
 }
 *{
@@ -16,7 +16,6 @@ html{
 }
 body{
     min-height: 100vh;
-    padding: 10px;
     background-color: var(--background);
     display: flex;
     flex-direction: column;
